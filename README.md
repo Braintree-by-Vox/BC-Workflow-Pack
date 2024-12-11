@@ -134,9 +134,9 @@ The restriction was imposed because the journal batch requires approval."_
 2.  Select Item Journal Approval Workflow
 3.  Click on New
 4.  Click on New Workflow from Template
+   
 ![image011](./images/image011.png)
 
- 
 5. Capture desired conditions such as who the approver should be
 -   Under Approval User Setup, the “Approve Item Journals” field should be ticked for the specified approver
 
