@@ -1,5 +1,20 @@
-# BC-Workflow-Pack
-Braintree Advanced Workflow Pack
+# Braintree Advanced Workflow Pack
+
+- [Braintree Advanced Workflow Pack](#braintree-advanced-workflow-pack)
+  - [1. Introduction](#1-introduction)
+  - [2. Setup and Configuration](#2-setup-and-configuration)
+    - [Setup Overview](#setup-overview)
+  - [3. G/L Budget Approval Workflow](#3-gl-budget-approval-workflow)
+    - [Test Instructions](#test-instructions)
+  - [4. General Journal Batch Approval Workflow](#4-general-journal-batch-approval-workflow)
+    - [Test Instructions](#test-instructions-1)
+  - [5. Item Journal Approval Workflow](#5-item-journal-approval-workflow)
+    - [Test Instructions](#test-instructions-2)
+  - [6. Physical Inventory Order Approval Workflow](#6-physical-inventory-order-approval-workflow)
+    - [Test Instructions](#test-instructions-3)
+  - [7. Sales Price Margin Approval Workflow](#7-sales-price-margin-approval-workflow)
+    - [Test Instructions](#test-instructions-4)
+  - [8. Troubleshooting](#8-troubleshooting)
 
 ## 1. <a name="_toc1">Introduction</a>
 
