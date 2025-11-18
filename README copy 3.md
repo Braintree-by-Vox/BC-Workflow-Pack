@@ -1,6 +1,7 @@
 # Braintree Advanced Workflow Pack
 
 - [Braintree Advanced Workflow Pack](#braintree-advanced-workflow-pack)
+  - [1. Introduction](#1-introduction)
   - [2. Setup and Configuration](#2-setup-and-configuration)
     - [2.1. Setup Overview](#21-setup-overview)
     - [2.2.	Permission Sets](#22permission-sets)
@@ -16,9 +17,42 @@
     - [Test Instructions](#test-instructions-4)
   - [8. Troubleshooting](#8-troubleshooting)
 
-## [Introduction](Introduction)
+## 1. <a name="_toc1">Introduction</a>
 
-## [Setup and Configuration](Configuration)
+The Workflow Templates Extension for Microsoft Dynamics 365 Business Central enhances the approval processes by introducing a set of customised workflow templates designed to address specific business scenarios. This extension builds upon the standard Business Central workflow functionality, providing businesses with more options to tailor workflows to their operational needs.
+
+The extension includes the following templates:
+
+- G/L Budget Approval Workflow
+- General Journal Batch Approval Workflow (enhancement)
+- Item Journal Approval Workflow
+- Physical Inventory Order Approval Workflow
+- Sales Price Margin Approval Workflow
+
+By extending the capabilities of Business Central, this app helps organisations implement workflows that align with their internal processes, providing flexibility and consistency in managing approvals.
+
+This document outlines the features and functionality of each workflow template, along with detailed information on configuration and usage. It serves as a resource for businesses looking to enhance their workflow management within the Business Central environment.
+
+## 2. <a name="_toc2">Setup and Configuration</a>
+
+To start using the Workflow Templates Extension, some initial setup and configuration are required. These steps ensure that the workflows are tailored to your organisation's needs and function seamlessly within your Microsoft Dynamics 365 Business Central environment.
+
+### 2.1. Setup Overview
+1.	Install the Workflow Templates Extension in your Business Central environment.
+2.	Create new workflow from specific templates relevant to your business, such as G/L Budget Approval Workflow or Sales Price Margin Approval Workflow.
+3.	Define key settings such as conditions (e.g., Total Amount thresholds) within the specific workflow.
+4.	Set up approval hierarchies and configure user access to specific workflows.
+
+Detailed guidance for setting up and configuring each workflow template is provided in the following sections.
+
+### 2.2.	Permission Sets
+Two permission sets were added to the Extension:
+1.	BTWF WORKFLOW: Required for all users to access new functionality.
+2.	BTWF WORKFLOW SETUP: Required for administrators to perform administrative tasks, including setup of the Approved Item Sales Margins.
+
+
+![image020](./images/image020.png)
+
 
 ## 3. <a name="_toc3">G/L Budget Approval Workflow</a>
 1. Navigate to Workflow Templates
