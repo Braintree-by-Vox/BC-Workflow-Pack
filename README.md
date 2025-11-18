@@ -6,4 +6,4 @@
 ## [General Journal Batch Approval Workflow](GeneralJournal)
 ## [Item Journal Approval Workflow](ItemJournal)
 ## [Physical Inventory Order Approval Workflow](PhysicalInventory)
-## [Troubleshooting](Troubleshooting)
+## [Troubleshooting](TroubleShooting)

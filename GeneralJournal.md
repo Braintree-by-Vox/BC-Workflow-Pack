@@ -1,6 +1,6 @@
 # Braintree Advanced Workflow Pack
 
-## 4. <a name="_toc4">General Journal Batch Approval Workflow</a>
+## General Journal Batch Approval Workflow
 1. Note: This workflow already exists but has been extended to include functionality for defining conditions based on Total Amount thresholds.
 2. Navigate to Workflow Templates
 3. Select General Journal Batch Approval Workflow

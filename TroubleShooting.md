@@ -8,4 +8,5 @@ If you encounter any issues or errors while using the Workflow Templates Extensi
 3. Validate User Permissions: Ensure that the user triggering the workflow or managing templates has the necessary permissions.
 4. Test Template Functionality: Run a test using the problematic template to isolate the issue and confirm whether it is specific to that template or affects others as well.
 5. Contact Support: If the issue persists, reach out to the support team, providing details such as error messages and the steps leading to the problem for efficient troubleshooting.
-   
+
+[How to create a workflow](https://www.youtube.com/watch?v=C6ptkf9kNEI)
