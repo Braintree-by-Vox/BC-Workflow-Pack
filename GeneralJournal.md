@@ -30,10 +30,11 @@ The restriction was imposed because the journal batch requires approval."_
 
 ![image010](./images/image010.png)
 
- 
 4.	Approver Notification
 -   Verify that the approver receives a notification about the approval request.
 5.	Approval Process
 -   Simulate or allow the approver to approve the request.
 6.	Confirm Release
 -   Ensure the Status of the budget changes to Released after approval is granted.
+-   
+[**⬆️ Back to Top**](#general-journal-batch-approval-workflow) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/BC-Workflow-Pack)

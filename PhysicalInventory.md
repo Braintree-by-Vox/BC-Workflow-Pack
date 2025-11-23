@@ -1,6 +1,4 @@
-# Braintree Advanced Workflow Pack
-
-## Physical Inventory Order Approval Workflow
+# Physical Inventory Order Approval Workflow
 1. Navigate to Workflow Templates
 2. Select Physical Inventory Order Approval Workflow
 3. Click on New
@@ -16,7 +14,7 @@
  
 6. Once satisfied that all necessary conditions have been stipulated, workflow can be enabled
 
-###	Test Instructions
+##	Test Instructions
 1.	Navigate to Physical Inventory Orders
 -   Create new order
 -   Populate accordingly
@@ -29,10 +27,12 @@
 
  ![image016](./images/image016.png)
 
- 
 4.	Approver Notification
 -   Verify that the approver receives a notification about the approval request.
 5.	Approval Process
 -   Simulate or allow the approver to approve the request.
 6.	Confirm Release
 -   Ensure the Status of the order changes to Released after approval is granted.
+-   
+
+[**⬆️ Back to Top**](#physical-inventory-order-approval-workflow) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/BC-Workflow-Pack)

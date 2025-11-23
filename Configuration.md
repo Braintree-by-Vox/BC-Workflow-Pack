@@ -1,10 +1,8 @@
-# Braintree Advanced Workflow Pack
-
-## Setup and Configuration
+# Setup and Configuration
 
 To start using the Workflow Templates Extension, some initial setup and configuration are required. These steps ensure that the workflows are tailored to your organisation's needs and function seamlessly within your Microsoft Dynamics 365 Business Central environment.
 
-### 2.1. Setup Overview
+## 2.1. Setup Overview
 1.	Install the Workflow Templates Extension in your Business Central environment.
 2.	Create new workflow from specific templates relevant to your business, such as G/L Budget Approval Workflow or Sales Price Margin Approval Workflow.
 3.	Define key settings such as conditions (e.g., Total Amount thresholds) within the specific workflow.
@@ -12,13 +10,12 @@ To start using the Workflow Templates Extension, some initial setup and configur
 
 Detailed guidance for setting up and configuring each workflow template is provided in the following sections.
 
-### 2.2.	Permission Sets
+## 2.2.	Permission Sets
 Two permission sets were added to the Extension:
 1.	BTWF WORKFLOW: Required for all users to access new functionality.
 2.	BTWF WORKFLOW SETUP: Required for administrators to perform administrative tasks, including setup of the Approved Item Sales Margins.
 
 ![image020](./images/image020.png)
-
 
 ## 3. <a name="_toc3">G/L Budget Approval Workflow</a>
 1. Navigate to Workflow Templates
@@ -36,7 +33,7 @@ Two permission sets were added to the Extension:
  
 6. Once satisfied that all necessary conditions have been stipulated, workflow can be enabled
    
-### Test Instructions
+## Test Instructions
 1.	Navigate to G/L Budgets
 -   Open the G/L Budgets page in Business Central.
 2.	Create a New Budget
@@ -82,8 +79,7 @@ Two permission sets were added to the Extension:
  
 7. Once satisfied that all necessary conditions have been stipulated, workflow can be enabled
 
-
-### Test Instructions
+## Test Instructions
 1.	Navigate to General Journals
 -   Select General Journal Template
 -   Populate accordingly (to test that the workflow works, ensure that the amount is greater than amount captured in condition)
@@ -97,8 +93,7 @@ The restriction was imposed because the journal batch requires approval."_
 
 ![image010](./images/image010.png)
 
- 
-4.	Approver Notification
+ 4.	Approver Notification
 -   Verify that the approver receives a notification about the approval request.
 5.	Approval Process
 -   Simulate or allow the approver to approve the request.
@@ -120,7 +115,7 @@ The restriction was imposed because the journal batch requires approval."_
 
 6. Once satisfied that all necessary conditions have been stipulated, workflow can be enabled
 
-###	Test Instructions
+##	Test Instructions
 1.	Navigate to Item Journals
 -   Select Item Journal Template
 -   Populate accordingly
@@ -156,7 +151,7 @@ The restriction was imposed because the journal batch requires approval."_
  
 6. Once satisfied that all necessary conditions have been stipulated, workflow can be enabled
 
-###	Test Instructions
+##	Test Instructions
 1.	Navigate to Physical Inventory Orders
 -   Create new order
 -   Populate accordingly
@@ -169,7 +164,6 @@ The restriction was imposed because the journal batch requires approval."_
 
  ![image016](./images/image016.png)
 
- 
 4.	Approver Notification
 -   Verify that the approver receives a notification about the approval request.
 5.	Approval Process
@@ -192,7 +186,7 @@ The restriction was imposed because the journal batch requires approval."_
 
 7. Capture desired conditions such as who the approver should be
 
-### Test Instructions
+## Test Instructions
 1.	Navigate to Sales Orders
 -   Create new order
 -   Populate accordingly
@@ -219,3 +213,5 @@ If you encounter any issues or errors while using the Workflow Templates Extensi
 3. Validate User Permissions: Ensure that the user triggering the workflow or managing templates has the necessary permissions.
 4. Test Template Functionality: Run a test using the problematic template to isolate the issue and confirm whether it is specific to that template or affects others as well.
 5. Contact Support: If the issue persists, reach out to the support team, providing details such as error messages and the steps leading to the problem for efficient troubleshooting.
+
+[**⬆️ Back to Top**](#setup-and-configuration) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/BC-Workflow-Pack)

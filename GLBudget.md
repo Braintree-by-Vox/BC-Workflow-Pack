@@ -1,6 +1,4 @@
-# Braintree Advanced Workflow Pack
-
-## G/L Budget Approval Workflow
+# G/L Budget Approval Workflow
 1. Navigate to Workflow Templates
 2. Select G/L Budget Approval Workflow
 3. Click on New
@@ -16,7 +14,7 @@
  
 6. Once satisfied that all necessary conditions have been stipulated, workflow can be enabled
    
-### Test Instructions
+## Test Instructions
 1.	Navigate to G/L Budgets
 -   Open the G/L Budgets page in Business Central.
 2.	Create a New Budget
@@ -41,7 +39,8 @@
 
 ![image007](./images/image007.png)
 
- 
 6.	**Approver Notification**: Verify that the approver receives a notification about the approval request.
 7.	**Approval Process**: Simulate or allow the approver to approve the request.
 8.	**Confirm Release**: Ensure the Status of the budget changes to Released after approval is granted.
+
+[**⬆️ Back to Top**](#gl-budget-approval-workflow) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/BC-Workflow-Pack)

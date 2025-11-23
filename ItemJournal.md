@@ -1,6 +1,4 @@
-# Braintree Advanced Workflow Pack
-
-## Item Journal Approval Workflow
+# Item Journal Approval Workflow
 1.  Navigate to Workflow Templates
 2.  Select Item Journal Approval Workflow
 3.  Click on New
@@ -15,7 +13,7 @@
 
 6. Once satisfied that all necessary conditions have been stipulated, workflow can be enabled
 
-###	Test Instructions
+##	Test Instructions
 1.	Navigate to Item Journals
 -   Select Item Journal Template
 -   Populate accordingly
@@ -34,3 +32,5 @@
 -   Simulate or allow the approver to approve the request.
 6.	Confirm Release
 -   Ensure the Status of the journal changes to Released after approval is granted.
+
+[**⬆️ Back to Top**](#item-journal-approval-workflow) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/BC-Workflow-Pack)
