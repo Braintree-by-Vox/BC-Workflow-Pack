@@ -19,5 +19,6 @@ Two permission sets were added to the Extension:
 6.	**Approver Notification**: Verify that the approver receives a notification about the approval request.
 7.	**Approval Process**: Simulate or allow the approver to approve the request.
 8.	**Confirm Release**: Ensure the Status of the budget changes to Released after approval is granted.
+
  
 [**⬆️ Back to Top**](#setup-and-configuration) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/BC-Workflow-Pack)

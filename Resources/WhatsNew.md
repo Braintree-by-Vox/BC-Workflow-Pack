@@ -1,9 +1,9 @@
 # Release notes
 
-# Release (Appsource version) (Braintree version)
+### Release (Appsource version) (Braintree version)
 
 <details>
-<summary>One-liner describing the issue (click for details)</summary>
+<summary>No new releases  (click for details)</summary>
 <ul>
 <li>Line 1 of detail</li>
 <li>Line 2 of detail</li> 

@@ -27,11 +27,11 @@
  ![image016](./images/image016.png)
 
 4.	Approver Notification
--   Verify that the approver receives a notification about the approval request.
+    Verify that the approver receives a notification about the approval request.
 5.	Approval Process
--   Simulate or allow the approver to approve the request.
+    Simulate or allow the approver to approve the request.
 6.	Confirm Release
--   Ensure the Status of the order changes to Released after approval is granted.
--   
+    Ensure the Status of the order changes to Released after approval is granted.
+  
 
 [**⬆️ Back to Top**](#physical-inventory-order-approval-workflow) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/BC-Workflow-Pack)
