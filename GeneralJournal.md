@@ -1,6 +1,4 @@
-# Braintree Advanced Workflow Pack
-
-## General Journal Batch Approval Workflow
+# General Journal Batch Approval Workflow
 1. Note: This workflow already exists but has been extended to include functionality for defining conditions based on Total Amount thresholds.
 2. Navigate to Workflow Templates
 3. Select General Journal Batch Approval Workflow
@@ -14,7 +12,6 @@
 ![image009](./images/image009.png)
  
 7. Once satisfied that all necessary conditions have been stipulated, workflow can be enabled
-
 
 ### Test Instructions
 1.	Navigate to General Journals

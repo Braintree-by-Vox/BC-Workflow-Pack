@@ -11,7 +11,6 @@
 
  ![image015](./images/image015.png)
 
- 
 6. Once satisfied that all necessary conditions have been stipulated, workflow can be enabled
 
 ##	Test Instructions
