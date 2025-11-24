@@ -1,6 +1,6 @@
 # Braintree Advanced Workflow Pack
 
-## [Introduction](Introduction)
+## [Overview](Introduction)
 ## [Setup and Configuration](Configuration)
 ## [GL Budget](GLBudget)
 ## [General Journal Batch Approval Workflow](GeneralJournal)

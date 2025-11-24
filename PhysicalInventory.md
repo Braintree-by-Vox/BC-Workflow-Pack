@@ -1,4 +1,4 @@
-# Physical Inventory Order Approval Workflow
+# Physical Inventory Order Approvals
 - Navigate to Workflow Templates
 - Select Physical Inventory Order Approval Workflow
 - Click on New
