@@ -6,5 +6,4 @@ description: Support and documentation for Braintree's Extended Workflow Pack fo
 
 # Vendor Bank Account
 
-
 [**⬆️ Back to Top**](#sales-price-margin-approval-workflow) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/BC-Workflow-Pack)
