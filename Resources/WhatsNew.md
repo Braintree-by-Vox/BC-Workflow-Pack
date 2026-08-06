@@ -1,12 +1,13 @@
 # Release notes
 
-## Release (Appsource version) (Braintree version)
+## Release (27.0.20260707.x)
 
 <details>
-<summary>No new releases  (click for details)</summary>
+<summary>Improved onboarding process  (click for details)</summary>
 <ul>
-<li>Line 1 of detail</li>
-<li>Line 2 of detail</li> 
+<li>Added to Assisted Setup and Manual Setup.</li>
+<li>Added setup page</li> 
+<li>Auto request licence registration</li> 
 <!-- copy line above to add details -->
 </ul>
 </details>

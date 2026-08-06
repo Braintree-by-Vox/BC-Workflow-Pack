@@ -4,7 +4,7 @@ The Workflow Templates Extension for Microsoft Dynamics 365 Business Central enh
 The extension includes the following templates:
 
 - G/L Budget Approval Workflow
-- General Journal Batch Approval Workflow (enhancement)
+- General Journal Batch Approval Workflow enhancement
 - Item Journal Approval Workflow
 - Physical Inventory Order Approval Workflow
 - Sales Price Margin Approval Workflow
