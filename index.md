@@ -11,6 +11,7 @@ description: Support and documentation for Braintree's Extended Workflow Pack fo
 ## [GL Budget](GLBudget)
 ## [General Journal Batch Approval Workflow](GeneralJournal)
 ## [Item Journal Approval Workflow](ItemJournal)
+## [Vendor Bank Account Workflow](VendorBank)
 ## [Physical Inventory Order Approval Workflow](PhysicalInventory)
 ## [Sales Prices](SalesPrices)
 ## [Troubleshooting](TroubleShooting)
