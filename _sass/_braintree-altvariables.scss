@@ -4,13 +4,14 @@ $medium-breakpoint: 42em !default;
 
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #328278 !default;
+// $header-bg-color: #328278 !default;
+$header-bg-color: #00DAA4 !default;
 $header-bg-color-secondary: #003433 !default;
 
 // Text
-$section-headings-color: #328278 !default;
-$body-text-color: #328278 !default;
-$body-link-color: #328278;
+$section-headings-color: white !default;
+$body-text-color: whitesmoke !default;
+$body-link-color: lightgray;
 $blockquote-text-color: #819198 !default;
 
 // Code
@@ -18,15 +19,16 @@ $code-bg-color: #f3f6fa !default;
 $code-text-color: #567482 !default;
 
 // Borders
-$border-color: purple !default;
-$table-border-color: #e9ebec !default;
+$border-color: #FFBF3F !default;
+$table-border-color: whitesmoke !default;
 $hr-border-color: #eff0f1 !default;
 
 // Braintree
 $braintree-font:#328278 !default;
 $braintree-background: lightcyan !default;
 $braintree-navbar: lightcyan !default;
-$braintree-contact: #ffffff !default;
+// $braintree-contact: #ffffff !default;
+$braintree-contact: ghostwhite !default;
 $braintree-border: #328278 !default;
 $braintree-main: lightcyan !default;
 $braintree-button-bg: #328278 !default;
