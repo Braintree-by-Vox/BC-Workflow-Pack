@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's Extended Workflow Pack for Microsoft Dynamics 365 Business Central
+---
+
 # Overview
 The Workflow Templates Extension for Microsoft Dynamics 365 Business Central enhances the approval processes by introducing a set of customised workflow templates designed to address specific business scenarios. This extension builds upon the standard Business Central workflow functionality, providing businesses with more options to tailor workflows to their operational needs.
 

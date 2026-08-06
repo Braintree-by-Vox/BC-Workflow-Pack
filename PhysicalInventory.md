@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's Extended Workflow Pack for Microsoft Dynamics 365 Business Central
+---
+
 # Physical Inventory Order Approvals
 - Navigate to Workflow Templates
 - Select Physical Inventory Order Approval Workflow

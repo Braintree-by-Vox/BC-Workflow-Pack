@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's Extended Workflow Pack for Microsoft Dynamics 365 Business Central
+---
+
 # G/L Budget Approval Workflow
 - Navigate to Workflow Templates
 - Select G/L Budget Approval Workflow

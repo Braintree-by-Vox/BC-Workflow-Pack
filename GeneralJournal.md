@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's Extended Workflow Pack for Microsoft Dynamics 365 Business Central
+---
+
 # General Journal Batch Approval Workflow
 - Note: This workflow already exists but has been extended to include functionality for defining conditions based on Total Amount thresholds.
 - Navigate to Workflow Templates
